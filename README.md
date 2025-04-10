@@ -39,12 +39,12 @@ REM Pause to see the output (optional)
 pause
 ```
 
-#### If you are using Linux you can run:
+#### If you are using Linux, you can run:
 
 1- Clone the repository:
 
 ```bash
-git clone [https://github.com/jacopfrye/Tiktok-ERV-Calculator.git](https://github.com/AlM-Express/Tiktok-ERV-Calculator.git)
+git clone https://github.com/AlM-Express/Tiktok-ERV-Calculator.git
 ```
 2- Change the working directory to the place of the files:
 
